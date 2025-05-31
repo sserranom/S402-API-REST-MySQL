@@ -66,7 +66,7 @@ The project includes a `Dockerfile` to build the application image and a `docker
 
 ### Commands to start the app
 
-```bash````
+```bash```
 docker-compose build
 docker-compose up
 
